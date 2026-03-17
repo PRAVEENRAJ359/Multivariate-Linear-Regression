@@ -9,7 +9,7 @@ Step 1: Read the Dataset
 
 Load the CSV file containing car data (Weight, Volume, CO2) into the system.
 
-Step 2: Define Variables
+Step 2: Define Variables.
 
 Select Weight and Volume as independent variables (inputs).
 
